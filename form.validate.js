@@ -128,4 +128,3 @@ function doFieldValidations(object,isUserChanged){
       $(object).parentsUntil("div.aForm").parent().find(".aFormButton").attr("disabled",true);
     }
 }
-$.fn.initFieldValidations();
