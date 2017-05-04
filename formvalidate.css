@@ -1,0 +1,9 @@
+.touched-warning input{
+	border:1px solid #f2ef65 !important;
+}
+.error-field input{
+	border:1px solid #a94442 !important;
+}
+.reference-text{
+	color:#a94442;
+}
