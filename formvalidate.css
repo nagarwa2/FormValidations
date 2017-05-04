@@ -1,7 +1,7 @@
-.touched-warning input{
+.touched-warning input select{
 	border:1px solid #f2ef65 !important;
 }
-.error-field input{
+.error-field input select{
 	border:1px solid #a94442 !important;
 }
 .reference-text{
