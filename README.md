@@ -1,2 +1,2 @@
 # FormValidations
-This plugin helps to validate some pre-defined form fields.
+This plugin helps to validate form fields.
