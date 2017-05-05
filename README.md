@@ -5,7 +5,7 @@ With this plugin you can check if form field value is changed or not by checking
 
 You can apply this plugin to particular form by giving form ID as argument when calling, for example '#form1'. If you want to apply to all input fields in the web page then don't pass any arguments to the plugin.
 
-This plugin will also take care of disabling submit form button if there are any errors on page.
+This plugin will also take care of disabling submit form button if there are any errors.
 
 Following fields can be validated with this plugin:
 1. SSN
