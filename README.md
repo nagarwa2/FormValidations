@@ -21,6 +21,7 @@ Following fields can be validated with this plugin:
 11. Blank value
 12. Only greater than 0 value
 13. City field
+14. HTML Select field for blank value
 
 To use this plugin include form.validate.js and form.validate.css file in your web page. Once the page is loaded call the plugin. 
 
