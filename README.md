@@ -22,6 +22,14 @@ Following fields can be validated with this plugin:
 12. Only greater than 0 value
 13. City field
 
-To use this plugin include form.validate.js and form.validate.css file in your web page. Please take a look at index.html page for reference.
+To use this plugin include form.validate.js and form.validate.css file in your web page. Once the page is loaded call the plugin. 
 
+Please take a look at index.html page for reference.
 
+Screenshots:
+
+![alt text](https://github.com/nagarwa2/jQuery-Form-Validations-Plugin/blob/master/1.png)
+
+![alt text](https://github.com/nagarwa2/jQuery-Form-Validations-Plugin/blob/master/2.png)
+
+ 
